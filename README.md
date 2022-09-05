@@ -1,2 +1,3 @@
-# DripCore
-for Drip.app
+# Core
+
+A description of this package.
